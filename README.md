@@ -1,4 +1,4 @@
-# 🔠 Jogo da Forca — Projeto em Python
+### 🧮 Jogo da Forca — Projeto em Python
 
 Este é um jogo da forca desenvolvido em aula com fins didáticos para praticar lógica de programação, funções e manipulação de arquivos no terminal para praticar estruturas de repetição, listas, controle de fluxo e leitura/gravação de arquivos no Python.
 
@@ -6,17 +6,17 @@ Este é um jogo da forca desenvolvido em aula com fins didáticos para praticar 
 
 ## 🎮 Deselvolvido por:
 
-Jamile Rockenbach Ferreira, aluna do primeiro semestre de ciência da computação.
+Jamile Rockenbach Ferreira, aluna do primeiro semestre de Ciência da Computação.
 
 ---
 
-## 🧠 Funcionalidades
+## 🧠 Funcionalidades:
 
-- 👥 Dois jogadores: desafiante e competidor
-- ✍️ Palavra-chave com substituição por asteriscos
-- 💬 Sistema de 3 dicas
-- ❌ Contador de erros com ilustração da forca
-- 🏆 Ranking salvo em `ranking.txt` com vencedor, perdedor e palavra
+- Dois jogadores: desafiante e competidor;
+- Palavra-chave com substituição por asteriscos;
+- Sistema de 3 dicas;
+- Contador de erros com ilustração da forca;
+- Ranking salvo em `ranking.txt` com vencedor, perdedor e palavra.
 
 ---
 

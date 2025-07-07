@@ -20,7 +20,7 @@ Jamile Rockenbach Ferreira, aluna do primeiro semestre de Ciência da Computaç�
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas:
 
 - Python 3
 - Módulos padrão: `os`, `time`
